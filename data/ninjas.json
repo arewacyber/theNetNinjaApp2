@@ -1,0 +1,84 @@
+                [{
+                 "name":"Yoshi",
+                 "belt":"Green",
+                 "rate":"500",
+                 "available":true,
+                 "thumb": "content/images/yoshi.jfif"
+                },
+                {
+                  "name":"Crstal",
+                  "belt":"pink",
+                  "rate":"1000",
+                  "available":true,
+                  "thumb": "content/images/crystal.jfif"
+                },
+                {
+                 "name":"Ryu",
+                 "belt":"Red",
+                 "rate":"1500",
+                 "available":true,
+                 "thumb": "content/images/ryu.jfif"
+                 },
+                 {
+                  "name":"Shaun",
+                  "belt":"yellow",
+                  "rate":"1500",
+                  "available":true,
+                  "thumb": "content/images/shaun.jfif"
+                },
+                {
+                 "name":"Sadiq",
+                 "belt":"orange",
+                 "rate":"1500",
+                 "available":true,
+                 "thumb": "content/images/sadiq.jfif"
+               },
+               {
+                "name":"Daha",
+                "belt":"Purple",
+                "rate":"18000",
+                "available":true,
+                "thumb": "content/images/daha.jfif"
+              },
+              {
+               "name":"Amira",
+               "belt":"Seagreen",
+               "rate":"25000",
+               "available":true,
+               "thumb": "content/images/amira.jfif"
+             },
+             {
+              "name":"Blessing",
+              "belt":"Brown",
+              "rate":"2500",
+              "available":true,
+              "thumb": "content/images/blessing.jfif"
+            },
+            {
+             "name":"Amir",
+             "belt":"Blue",
+             "rate":"1500",
+             "available":true,
+             "thumb": "content/images/amir.jfif"
+           },
+           {
+            "name":"Zahra",
+            "belt":"Black",
+            "rate":"1500",
+            "available":true,
+            "thumb": "content/images/zara.jfif"
+          },
+          {
+           "name":"Mama",
+           "belt":"navy",
+           "rate":"5500",
+           "available":true,
+           "thumb": "content/images/mama.jfif"
+         },
+         {
+          "name":"Joy",
+          "belt":"Red",
+          "rate":"2000",
+          "available":true,
+          "thumb": "content/images/joy.jfif"
+        }]
